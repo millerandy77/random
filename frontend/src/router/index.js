@@ -13,6 +13,7 @@ const routes = [
     name: 'PingMe',
     component: Ping,
   },
+  
 ];
 
 const router = createRouter({

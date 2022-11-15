@@ -1,7 +1,7 @@
 <template>
   <button @click="getMessage">Click Me</button>
   <div>
-    <p>JOES A BUTTHEAD</p>
+    <p>Help me Tim is</p>
     <p>{{ msg }}</p>
   </div>
 </template>
